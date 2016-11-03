@@ -1,0 +1,1 @@
+hashcat --hash-type=100 --attack-mode=3 --increment -o passcrack.txt q4hash.txt mask.hcmask --potfile-disable
