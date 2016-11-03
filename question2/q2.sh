@@ -1,1 +1,1 @@
-hashcat --hash-type=120 --attack-mode=3 -o passcvrack.txt q2hash.txt mask.hcmask
+hashcat --hash-type=120 --attack-mode=3 -o passcrack.txt q2hash.txt mask.hcmask
